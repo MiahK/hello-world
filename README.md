@@ -1,5 +1,4 @@
 # hello-world
 just another repository
 
-Hello
-My name is Miah 
+Hello, my name is Miah 
